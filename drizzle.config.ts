@@ -8,5 +8,5 @@ export default {
   dbCredentials: {
     connectionString: env.DATABASE_URL,
   },
-  tablesFilter: ["t3intro_*"],
+  tablesFilter: ["myt3app_*"],
 } satisfies Config;

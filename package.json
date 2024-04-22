@@ -1,5 +1,5 @@
 {
-  "name": "t3intro",
+  "name": "myt3app",
   "version": "0.1.0",
   "private": true,
   "type": "module",
@@ -41,5 +41,5 @@
   "ct3aMetadata": {
     "initVersion": "7.30.2"
   },
-  "packageManager": "npm@10.5.1"
+  "packageManager": "npm@10.2.4"
 }
